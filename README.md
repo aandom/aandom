@@ -99,7 +99,8 @@ Here are some ideas to get you started:
 
 <!-- ![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=aandom&show_icons=true&theme=dracula&hide=stars,issues) -->
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandom&show_icons=true&theme=dracula&hide=stars,issues&include_all_commits=true)
+< !-- ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandom&show_icons=true&theme=dracula&hide=stars,issues&include_all_commits=true) -->
+![Alexander's GitHub stats](https://github-readme-stats-jb4m.vercel.app/api?username=aandom&show_icons=true&theme=radical)
 
 <br>
 
